@@ -25,7 +25,7 @@ for name, path in names.items():
     dataset = {}
     for sheet in range(3, len(excel_file.sheet_names)):
         test = SheetExtractor(path, sheet)
-        data = test.get('total', 'secundaria:completo', ponderated = True, ranged = True, start_from='25-29')
+        data = test.get('males', 'universitario:completo', ponderated = True, ranged = True, start_from='25-29')
         dataset[test.name] = data
 
     df = pd.DataFrame(dataset)

@@ -94,10 +94,10 @@ class SheetExtractor:
             else:
                 value = row[category]
             if ponderated:
-                if not (str(row[level+':total']).isnumeric()):
+                if not str(row['total:poblacion']).isnumeric():
                     total = 1
                 else:
-                    total = row[level+':total']
+                    total = row['total:poblacion']
                 data[row['edad']] = value/total
             else:
                 data[row['edad']] = value
