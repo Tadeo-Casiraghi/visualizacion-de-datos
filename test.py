@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
-directory_path = 'datos_educacion'
+directory_path = 'datos_educacion/2022'
 all_files = os.listdir(directory_path)
 
 names = {}
