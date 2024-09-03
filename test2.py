@@ -1,100 +1,114 @@
 from extractor2 import SheetExtractor
 import networkx as nx
 import matplotlib.pyplot as plt
-import numpy as np
 import math
-import matplotlib
 import matplotlib.colors as mcolors
+import numpy as np
 
 
-def latlon_to_mercator(lat, lon, x0=0, y0=0, R=6378137, scale = 1):
-    """
-    Convert latitude and longitude to Mercator projection coordinates.
-    
-    Parameters:
-    lat (float): Latitude in degrees.
-    lon (float): Longitude in degrees.
-    x0 (float): X origin (default is 0).
-    y0 (float): Y origin (default is 0).
-    R (float): Radius of the Earth in meters (default is 6378137, WGS84 standard).
-
-    Returns:
-    (float, float): Tuple containing the x and y coordinates in the Mercator projection.
-    """
-    
-    # Convert latitude and longitude from degrees to radians
+def latlon_to_mercator(lat, lon, x0=0, y0=0, R=6378137, scale=1):
     lat_rad = math.radians(lat)
     lon_rad = math.radians(lon)
-    
-    # Calculate x and y using the Mercator projection formula
     x = R * lon_rad + x0
     y = R * math.log(math.tan(math.pi / 4 + lat_rad / 2)) + y0
+    return x / scale, y / scale
+
+def compute_net_flow(G):
+    """
+    Computes the net flow between edges and returns a new graph with only the net flow.
     
-    return x/scale, y/scale
+    Parameters:
+    G (networkx.DiGraph): The original graph with directed edges.
 
+    Returns:
+    networkx.DiGraph: A new graph with net flow edges.
+    """
+    net_flow_G = nx.DiGraph()
+    processed_pairs = set()  # Keep track of processed pairs
+
+    for u, v, data in G.edges(data=True):
+        if (v, u) in processed_pairs:
+            # Skip if reverse edge is already processed
+            continue
+
+        if G.has_edge(v, u):
+            reverse_weight = G[v][u]['weight']
+            net_flow = data['weight'] - reverse_weight
+
+            if net_flow > 0:
+                net_flow_G.add_edge(u, v, weight=net_flow, color_value=data['color_value'])
+            elif net_flow < 0:
+                net_flow_G.add_edge(v, u, weight=-net_flow, color_value=G[v][u]['color_value'])
+
+            # Mark this pair as processed
+            processed_pairs.add((u, v))
+            processed_pairs.add((v, u))
+        else:
+            # No reverse edge, just add the original
+            net_flow_G.add_edge(u, v, weight=data['weight'], color_value=data['color_value'])
+
+    return net_flow_G
+
+def plot_graph(G, pos, net_flow=False):
+    """
+    Plots the graph. If net_flow is True, it plots only the net flow.
+    
+    Parameters:
+    G (networkx.DiGraph): The original graph.
+    pos (dict): Node positions.
+    net_flow (bool): Flag to plot net flow. If False, it plots both arrows.
+    """
+    if net_flow:
+        G = compute_net_flow(G)
+
+    plt.figure(figsize=(6,9))
+
+    # Draw nodes
+    nx.draw_networkx_nodes(G, pos, node_color='black', node_size=1)
+
+    norm = mcolors.Normalize(vmin=0, vmax=1)
+    cmap = plt.get_cmap('coolwarm')
+
+    # Draw curved edges with thickness proportional to the weight
+    for u, v, d in G.edges(data=True):
+        edge_color = cmap(norm(d['color_value']))
+        rad = 0  # Adjust curvature for better visualization
+        nx.draw_networkx_edges(
+            G, pos, edgelist=[(u, v)],
+            width=d['weight'],
+            alpha=1,
+            edge_color=[edge_color],
+            arrowstyle='->',
+            arrowsize=20,
+            connectionstyle=f'arc3,rad={rad}'
+        )
+
+    # Draw labels on nodes
+    nx.draw_networkx_labels(G, pos, font_size=3)
+
+    plt.title("Network Graph with Custom Node Positions" + (" (Net Flow)" if net_flow else ""))
+    plt.axis('equal')
+    ax = plt.gca()
+    ax.set_facecolor('gray')
+    plt.savefig('test.png', dpi = 1000)
+    plt.show()
+
+# Example usage
+# Load data from your `SheetExtractor` here
 test = SheetExtractor('datos_migracion\c2022_tp_migraciones_c15.xlsx')
+edges = test.create_edges(ponderated=False, maximum=8, reference=1, colors=0)
 
-edges = test.create_edges(ponderated=False, maximum = 5, reference = 1, colors = 0)
-
-plt.figure()
-tempx = []
-tempy = []
-for u, v, _,_ in edges:
-    tempx.append(u)
-    tempy.append(test.poblacion[v]/test.poblacion[u])
-
-plt.scatter(tempx, tempy)
-plt.show()
-
+# Create the graph
 G = nx.DiGraph()
-
-# Add edges to the graph with the additional color value
 for u, v, weight, color_value in edges:
     G.add_edge(u, v, weight=weight, color_value=color_value)
 
-# Example usage
+# Calculate positions
 x0, y0 = -34.6037, -58.3816  # Origin of the projection
+pos = {provincia: latlon_to_mercator(lat, lon, x0, y0, scale=1000000) for provincia, (lat, lon) in test.latlong.items()}
 
-pos = {}
-for provincia, (lat, lon) in test.latlong.items():
-    pos[provincia] = latlon_to_mercator(lat, lon, x0, y0, scale = 1000000)
+# Toggle the net_flow flag here
+net_flow = True  # Set to True for net flow, False for both arrows
 
-# Manually define node positions
-# pos = {
-#     'A': (0, 0),
-#     'B': (1, 1),
-#     'C': (1, -1),
-#     'D': (6, 0)
-# }
-
-# pos = nx.spring_layout(G)
-
-# Draw nodes at specified positions
-nx.draw_networkx_nodes(G, pos, node_color='black', node_size=10)
-
-norm = mcolors.Normalize(vmin=0, vmax=1)    
-
-# Choose a colormap
-cmap = matplotlib.colormaps.get_cmap('gnuplot')  # 'coolwarm' transitions from blue to red
-
-
-# Draw curved edges with thickness proportional to the weight
-for u, v, d in G.edges(data=True):
-    edge_color = cmap(norm(d['color_value']))
-    rad = 0.2
-    nx.draw_networkx_edges(
-        G, pos, edgelist=[(u, v)],
-        width=d['weight'],
-        alpha=0.8,
-        edge_color=[edge_color],
-        arrowstyle='->',
-        arrowsize=20,
-        connectionstyle=f'arc3,rad={rad}'
-    )
-# Draw labels on nodes
-nx.draw_networkx_labels(G, pos, font_size=14, font_weight='bold')
-
-# Display the graph
-plt.title("Network Graph with Custom Node Positions")
-plt.axis('equal')
-plt.show()
+# Plot the graph based on the flag
+plot_graph(G, pos, net_flow=net_flow)
