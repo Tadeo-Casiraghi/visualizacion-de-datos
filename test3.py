@@ -50,7 +50,7 @@ def compute_net_flow(G):
 
     return net_flow_G
 
-def plot_graph(G, pos, net_flow=False):
+def plot_graph(G, pos, x, y , size, net_flow=False):
     """
     Plots the graph. If net_flow is True, it plots only the net flow.
     
@@ -84,6 +84,8 @@ def plot_graph(G, pos, net_flow=False):
 
     # Draw labels on nodes
     nx.draw_networkx_labels(G, pos, font_size=3)
+
+    plt.scatter(x, y, s=size, alpha=0.5, c='blue', edgecolors='black')
 
     plt.title("Network Graph with Custom Node Positions" + (" (Net Flow)" if net_flow else ""))
     plt.axis('equal')
@@ -119,8 +121,53 @@ map.drawcountries()
 map.drawstates()  # This will help to draw province boundaries
 map.drawmapboundary()
 
+x = []
+y = []
+size = []
+for prov, value in pos.items():
+    x.append(value[0])
+    y.append(value[1])
+    size.append(test.importacion[prov])
+
+
 # Toggle the net_flow flag here
 net_flow = True  # Set to True for net flow, False for both arrows
 
 # Plot the graph based on the flag
-plot_graph(G, pos, net_flow=net_flow)
+# plot_graph(G, pos, x, y, size, net_flow=net_flow)
+
+neto = {}
+
+for origen, destino, flow, _ in edges:
+    if origen not in neto:
+        neto[origen] = -flow
+    else:
+        neto[origen] -= flow
+    if destino not in neto:
+        neto[destino] = flow
+    else:
+        neto[destino] += flow
+
+
+plt.figure()
+sorted_data = dict(sorted(neto.items(), key=lambda item: item[1]))
+
+# Extract sorted keys and values
+categories = list(sorted_data.keys())
+values = list(sorted_data.values())
+
+# Create a horizontal bar graph
+plt.barh(categories, values, color='skyblue')
+
+# Add titles and labels
+plt.title('Horizontal Bar Graph Example')
+plt.xlabel('Values')
+plt.ylabel('Categories')
+
+# Show the plot
+plt.show()
+
+suma = 0
+for value in neto.values():
+    suma += value
+

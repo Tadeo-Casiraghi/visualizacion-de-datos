@@ -51,12 +51,13 @@ class SheetExtractor:
         maxx = 0
         max_color = 0
         min_color = 100
+        self.importacion = {}
         for provinciaA in self.provincias:
+            filtered_rows = self.df[self.df['Hace 5 años'].str.contains(provinciaA, case=False, na=False)]
             for provinciaB in self.provincias:
                 if provinciaA == provinciaB or 'Ciudad Autónoma de Buenos Aires' in provinciaA or 'Ciudad Autónoma de Buenos Aires' in provinciaB:
                     continue
 
-                filtered_rows = self.df[self.df['Hace 5 años'].str.contains(provinciaA, case=False, na=False)]
                 filtered_rows2 = self.df[self.df['Hace 5 años'].str.contains(provinciaB, case=False, na=False)]
             
                 if reference == 0:
@@ -80,8 +81,17 @@ class SheetExtractor:
                 if color < min_color:
                     min_color = color
                 edges.append((provinciaA, provinciaB, value, color))
+            
+            filter_import = self.df[self.df['Hace 5 años'].str.contains('En otro', case=False, na=False)]
+            if ponderated:
+                self.importacion[provinciaA] = filter_import[provinciaA].values[0]/filtered_rows['Poblacion'].values[0]
+            else:
+                self.importacion[provinciaA] = filter_import[provinciaA].values[0]
+
         
         edges2 = []
         for a, b, c, d in edges:
             edges2.append((a, b, c/maxx*maximum, self.custom_scale(d, min_color, max_color)))
+        for key, value in self.importacion.items():
+            self.importacion[key] = 30*value/maxx*maximum
         return edges2
