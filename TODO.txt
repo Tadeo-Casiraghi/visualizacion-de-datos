@@ -3,3 +3,4 @@ TODO List:
 - Gente que entra al pais donde va
 - Grafico neto de cada provincia en barras horizontales
 - Hombres vs Mujeres
+- Mapa por lugar de nacimiento
