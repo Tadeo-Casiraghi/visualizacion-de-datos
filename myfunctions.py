@@ -39,10 +39,11 @@ def plot_graph(G, pos):
         )
 
     # Draw labels on nodes
-    nx.draw_networkx_labels(G, pos, font_size=3)
+    # nx.draw_networkx_labels(G, pos, font_size=3)
     
     plt.axis('equal')
     ax = plt.gca()
-    ax.set_facecolor('gray')
-    plt.savefig('test.png', dpi = 1000)
+    ax.set_axis_off()
+    # ax.set_facecolor('gray')
+    plt.savefig('test.svg', format="svg", bbox_inches='tight', pad_inches=0, transparent=True)
     plt.show()

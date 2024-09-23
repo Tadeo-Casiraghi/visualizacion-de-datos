@@ -1,0 +1,522 @@
+provincia,departamento,m202108
+Buenos Aires,25 de Mayo,82477
+Buenos Aires,9 de Julio,88887
+Buenos Aires,Adolfo Alsina,91610
+Buenos Aires,Adolfo Gonzales Chaves,85457
+Buenos Aires,Alberti,94192
+Buenos Aires,Almirante Brown,96902
+Buenos Aires,Arrecifes,88141
+Buenos Aires,Avellaneda,102284
+Buenos Aires,Ayacucho,78589
+Buenos Aires,Azul,97030
+Buenos Aires,Bahía Blanca,114975
+Buenos Aires,Balcarce,96428
+Buenos Aires,Baradero,113433
+Buenos Aires,Benito Juárez,81940
+Buenos Aires,Berazategui,98996
+Buenos Aires,Berisso,100788
+Buenos Aires,Bolívar,88221
+Buenos Aires,Bragado,94879
+Buenos Aires,Brandsen,91418
+Buenos Aires,Campana,125188
+Buenos Aires,Capitán Sarmiento,103406
+Buenos Aires,Carlos Casares,85941
+Buenos Aires,Carlos Tejedor,83025
+Buenos Aires,Carmen de Areco,87414
+Buenos Aires,Castelli,79736
+Buenos Aires,Cañuelas,103655
+Buenos Aires,Chacabuco,97851
+Buenos Aires,Chascomús,88054
+Buenos Aires,Lezama,88054
+Buenos Aires,Chivilcoy,90503
+Buenos Aires,Colón,81125
+Buenos Aires,Coronel Dorrego,90899
+Buenos Aires,Coronel Pringles,85955
+Buenos Aires,Coronel Suárez,87773
+Buenos Aires,Coronel de Marina Leonardo Rosales,98219
+Buenos Aires,Daireaux,84814
+Buenos Aires,Dolores,102676
+Buenos Aires,Ensenada,103705
+Buenos Aires,Escobar,107540
+Buenos Aires,Esteban Echeverría,94273
+Buenos Aires,Exaltación de la Cruz,106708
+Buenos Aires,Ezeiza,95262
+Buenos Aires,Florencio Varela,87358
+Buenos Aires,Florentino Ameghino,86555
+Buenos Aires,General Alvarado,79241
+Buenos Aires,General Alvear,96660
+Buenos Aires,General Arenales,87219
+Buenos Aires,General Belgrano,82972
+Buenos Aires,General Guido,84829
+Buenos Aires,General Juan Madariaga,80384
+Buenos Aires,General La Madrid,85529
+Buenos Aires,General Las Heras,90845
+Buenos Aires,General Lavalle,79498
+Buenos Aires,General Paz,84705
+Buenos Aires,General Pinto,84827
+Buenos Aires,General Pueyrredón,95077
+Buenos Aires,General Rodríguez,105609
+Buenos Aires,General San Martín,96995
+Buenos Aires,General Viamonte,86083
+Buenos Aires,General Villegas,87448
+Buenos Aires,Guaminí,88808
+Buenos Aires,Hipólito Yrigoyen,77914
+Buenos Aires,Hurlingham,98484
+Buenos Aires,Ituzaingó,107298
+Buenos Aires,José C. Paz,85812
+Buenos Aires,Junín,101085
+Buenos Aires,La Costa,78879
+Buenos Aires,La Matanza,93958
+Buenos Aires,La Plata,104590
+Buenos Aires,Lanús,99442
+Buenos Aires,Laprida,86037
+Buenos Aires,Las Flores,83476
+Buenos Aires,Leandro N. Alem,83527
+Buenos Aires,Lincoln,83478
+Buenos Aires,Lobería,88029
+Buenos Aires,Lobos,88316
+Buenos Aires,Lomas de Zamora,100317
+Buenos Aires,Luján,106238
+Buenos Aires,Magdalena,104069
+Buenos Aires,Maipú,91705
+Buenos Aires,Malvinas Argentinas,93231
+Buenos Aires,Mar Chiquita,85072
+Buenos Aires,Marcos Paz,87253
+Buenos Aires,Mercedes,106764
+Buenos Aires,Merlo,89244
+Buenos Aires,Monte,87684
+Buenos Aires,Monte Hermoso,76441
+Buenos Aires,Moreno,89222
+Buenos Aires,Morón,111312
+Buenos Aires,Navarro,81912
+Buenos Aires,Necochea,106123
+Buenos Aires,Olavarría,103398
+Buenos Aires,Patagones,99383
+Buenos Aires,Pehuajó,89021
+Buenos Aires,Pellegrini,86744
+Buenos Aires,Pergamino,99923
+Buenos Aires,Pila,74926
+Buenos Aires,Pilar,105171
+Buenos Aires,Pinamar,83527
+Buenos Aires,Presidente Perón,83524
+Buenos Aires,Punta Indio,85577
+Buenos Aires,Puán,91318
+Buenos Aires,Quilmes,100198
+Buenos Aires,Ramallo,99322
+Buenos Aires,Rauch,75703
+Buenos Aires,Rivadavia,87887
+Buenos Aires,Rojas,95650
+Buenos Aires,Roque Pérez,84771
+Buenos Aires,Saavedra,101136
+Buenos Aires,Saladillo,89172
+Buenos Aires,Salliqueló,90035
+Buenos Aires,Salto,101310
+Buenos Aires,San Andrés de Giles,87773
+Buenos Aires,San Antonio de Areco,88992
+Buenos Aires,San Cayetano,84648
+Buenos Aires,San Fernando,101270
+Buenos Aires,San Isidro,135610
+Buenos Aires,San Miguel,96442
+Buenos Aires,San Nicolás,108935
+Buenos Aires,San Pedro,90635
+Buenos Aires,San Vicente,93363
+Buenos Aires,Suipacha,90528
+Buenos Aires,Tandil,90487
+Buenos Aires,Tapalqué,89416
+Buenos Aires,Tigre,111756
+Buenos Aires,Tordillo,81694
+Buenos Aires,Tornquist,92401
+Buenos Aires,Trenque Lauquen,97405
+Buenos Aires,Tres Arroyos,96349
+Buenos Aires,Tres Lomas,88916
+Buenos Aires,Tres de Febrero,100755
+Buenos Aires,Vicente López,136546
+Buenos Aires,Villa Gesell,77885
+Buenos Aires,Villarino,88870
+Buenos Aires,Zárate,130250
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 1,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 2,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 3,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 4,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 5,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 6,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 7,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 8,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 9,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 10,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 11,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 12,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 13,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 14,134193
+CIUDAD AUTONOMA DE BUENOS AIRES,Comuna 15,134193
+Catamarca,Ambato,64790
+Catamarca,Ancasti,60029
+Catamarca,Andalgalá,56902
+Catamarca,Antofagasta de la Sierra,71638
+Catamarca,Belén,72278
+Catamarca,Capayán,58601
+Catamarca,Capital,84479
+Catamarca,El Alto,65878
+Catamarca,Fray Mamerto Esquiú,75594
+Catamarca,La Paz,83143
+Catamarca,Paclín,70128
+Catamarca,Pomán,62658
+Catamarca,Santa María,72231
+Catamarca,Santa Rosa,67497
+Catamarca,Tinogasta,75503
+Catamarca,Valle Viejo,59647
+Chaco,12 de Octubre,76059
+Chaco,1° de Mayo,70470
+Chaco,2 de Abril,74168
+Chaco,25 de Mayo,64081
+Chaco,9 de Julio,69051
+Chaco,Almirante Brown,64828
+Chaco,Bermejo,72284
+Chaco,Chacabuco,75807
+Chaco,Comandante Fernández,77769
+Chaco,Fray Justo Santa María de Oro,66305
+Chaco,General Belgrano,64355
+Chaco,General Donovan,66541
+Chaco,General Güemes,73149
+Chaco,Independencia,62285
+Chaco,Libertad,70306
+Chaco,Libertador General San Martín,65412
+Chaco,Maipú,59505
+Chaco,Mayor Luis J. Fontana,70949
+Chaco,O'Higgins,64141
+Chaco,Presidencia de la Plaza,66508
+Chaco,Quitilipi,67743
+Chaco,San Fernando,82676
+Chaco,San Lorenzo,68225
+Chaco,Sargento Cabral,64652
+Chubut,Biedma,138780
+Chubut,Cushamen,89278
+Chubut,Escalante,167354
+Chubut,Florentino Ameghino,81941
+Chubut,Futaleufú,104775
+Chubut,Gaiman,99935
+Chubut,Languiñeo,90893
+Chubut,Mártires,102651
+Chubut,Paso de Indios,91068
+Chubut,Rawson,110942
+Chubut,Río Senguer,111999
+Chubut,Sarmiento,156970
+Chubut,Tehuelches,98863
+Chubut,Telsen,99045
+Cordoba,Calamuchita,89357
+Cordoba,Capital,95125
+Cordoba,Colón,99297
+Cordoba,Cruz del Eje,75567
+Cordoba,General Roca,76075
+Cordoba,General San Martín,90928
+Cordoba,Ischilín,85383
+Cordoba,Juárez Celman,93975
+Cordoba,Marcos Juárez,82562
+Cordoba,Minas,75508
+Cordoba,Pocho,75469
+Cordoba,Presidente Roque Sáenz Peña,84291
+Cordoba,Punilla,87199
+Cordoba,Río Cuarto,88858
+Cordoba,Río Primero,89082
+Cordoba,Río Seco,77222
+Cordoba,Río Segundo,86067
+Cordoba,San Alberto,65387
+Cordoba,San Javier,78845
+Cordoba,San Justo,93901
+Cordoba,Santa María,87029
+Cordoba,Sobremonte,72065
+Cordoba,Tercero Arriba,98372
+Cordoba,Totoral,88421
+Cordoba,Tulumba,76288
+Cordoba,Unión,84644
+Corrientes,Bella Vista,74889
+Corrientes,Berón de Astrada,70216
+Corrientes,Capital,89424
+Corrientes,Concepción,63683
+Corrientes,Curuzú Cuatiá,70527
+Corrientes,Empedrado,197772
+Corrientes,Esquina,70443
+Corrientes,General Alvear,77015
+Corrientes,General Paz,80654
+Corrientes,Goya,87522
+Corrientes,Itatí,81962
+Corrientes,Ituzaingó,87916
+Corrientes,Lavalle,74687
+Corrientes,Mburucuyá,67249
+Corrientes,Mercedes,75936
+Corrientes,Monte Caseros,78616
+Corrientes,Paso de los Libres,88981
+Corrientes,Saladas,84408
+Corrientes,San Cosme,76756
+Corrientes,San Luis del Palmar,75798
+Corrientes,San Martín,75362
+Corrientes,San Miguel,66004
+Corrientes,San Roque,67259
+Corrientes,Santo Tomé,76859
+Corrientes,Sauce,68787
+Entre Rios,Colón,83599
+Entre Rios,Concordia,81443
+Entre Rios,Diamante,78147
+Entre Rios,Federación,70911
+Entre Rios,Federal,70907
+Entre Rios,Feliciano,71672
+Entre Rios,Gualeguay,79464
+Entre Rios,Gualeguaychú,88627
+Entre Rios,Islas del Ibicuy,88794
+Entre Rios,La Paz,73988
+Entre Rios,Nogoyá,78739
+Entre Rios,Paraná,86867
+Entre Rios,San Salvador,76064
+Entre Rios,Tala,78593
+Entre Rios,Uruguay,86196
+Entre Rios,Victoria,76343
+Entre Rios,Villaguay,74666
+Formosa,Bermejo,60220
+Formosa,Formosa,88050
+Formosa,Laishi,63997
+Formosa,Matacos,84724
+Formosa,Patiño,72243
+Formosa,Pilagás,66993
+Formosa,Pilcomayo,78175
+Formosa,Pirané,72740
+Formosa,Ramón Lista,
+Jujuy,Cochinoca,72944
+Jujuy,Dr. Manuel Belgrano,69509
+Jujuy,El Carmen,54214
+Jujuy,Humahuaca,68873
+Jujuy,Ledesma,66164
+Jujuy,Palpalá,63271
+Jujuy,Rinconada,80819
+Jujuy,San Antonio,47931
+Jujuy,San Pedro,58327
+Jujuy,Santa Bárbara,50410
+Jujuy,Santa Catalina,43670
+Jujuy,Susques,63633
+Jujuy,Tilcara,58517
+Jujuy,Tumbaya,59407
+Jujuy,Valle Grande,45350
+Jujuy,Yavi,72212
+La Pampa,Atreucó,95051
+La Pampa,Caleu Caleu,98015
+La Pampa,Capital,108017
+La Pampa,Catriló,91551
+La Pampa,Chalileo,98926
+La Pampa,Chapaleufú,89839
+La Pampa,Chical Co,102597
+La Pampa,Conhelo,92730
+La Pampa,Guatraché,92991
+La Pampa,Hucal,97312
+La Pampa,Loventué,94024
+La Pampa,Maracó,97867
+La Pampa,Puelén,136376
+La Pampa,Quemú Quemú,92027
+La Pampa,Rancul,87813
+La Pampa,Realicó,93731
+La Pampa,Toay,101802
+La Pampa,Trenel,84556
+La Pampa,Utracán,99744
+La Rioja,Arauco,63284
+La Rioja,Capital,64068
+La Rioja,Castro Barros,47387
+La Rioja,Chamical,58728
+La Rioja,Chilecito,55403
+La Rioja,Famatina,52317
+La Rioja,General Belgrano,54885
+La Rioja,General Felipe Varela,59336
+La Rioja,General Juan Facundo Quiroga,41465
+La Rioja,General Lamadrid,43830
+La Rioja,General Ortiz de Ocampo,46043
+La Rioja,General San Martín,49559
+La Rioja,Independencia,44995
+La Rioja,Rosario Vera Peñaloza,54070
+La Rioja,San Blas de Los Sauces,44863
+La Rioja,Sanagasta,27387
+La Rioja,Vinchina,50800
+La Rioja,Ángel Vicente Peñaloza,49422
+Mendoza,Capital,92378
+Mendoza,General Alvear,72957
+Mendoza,Godoy Cruz,85308
+Mendoza,Guaymallén,79529
+Mendoza,Junín,66489
+Mendoza,La Paz,66613
+Mendoza,Las Heras,72109
+Mendoza,Lavalle,57841
+Mendoza,Luján de Cuyo,91836
+Mendoza,Maipú,79149
+Mendoza,Malargüe,95346
+Mendoza,Rivadavia,66902
+Mendoza,San Carlos,66021
+Mendoza,San Martín,70583
+Mendoza,San Rafael,75922
+Mendoza,Santa Rosa,57824
+Mendoza,Tunuyán,68109
+Mendoza,Tupungato,59999
+Misiones,25 de Mayo,83061
+Misiones,Apóstoles,79115
+Misiones,Cainguás,75410
+Misiones,Candelaria,78570
+Misiones,Capital,95869
+Misiones,Concepción,74832
+Misiones,Eldorado,84189
+Misiones,General Manuel Belgrano,77801
+Misiones,Guaraní,69662
+Misiones,Iguazú,82205
+Misiones,Leandro N. Alem,82472
+Misiones,Libertador General San Martín,83366
+Misiones,Montecarlo,77595
+Misiones,Oberá,76666
+Misiones,San Ignacio,82051
+Misiones,San Javier,79798
+Misiones,San Pedro,74031
+Neuquen,Aluminé,99290
+Neuquen,Añelo,122307
+Neuquen,Catán Lil,87012
+Neuquen,Chos Malal,114410
+Neuquen,Collón Curá,105189
+Neuquen,Confluencia,136869
+Neuquen,Huiliches,105652
+Neuquen,Loncopué,99053
+Neuquen,Los Lagos,100411
+Neuquen,Lácar,105369
+Neuquen,Minas,98539
+Neuquen,Pehuenches,174266
+Neuquen,Picunches,98646
+Neuquen,Picún Leufú,103415
+Neuquen,Zapala,112638
+Neuquen,Ñorquín,81230
+Rio Negro,25 de Mayo,85157
+Rio Negro,9 de Julio,74257
+Rio Negro,Adolfo Alsina,105596
+Rio Negro,Avellaneda,83761
+Rio Negro,Bariloche,96878
+Rio Negro,Conesa,95752
+Rio Negro,El Cuy,86824
+Rio Negro,General Roca,110852
+Rio Negro,Pichi Mahuida,97184
+Rio Negro,Pilcaniyeu,76130
+Rio Negro,San Antonio,111879
+Rio Negro,Valcheta,82696
+Rio Negro,Ñorquincó,73031
+Salta,Anta,79452
+Salta,Cachi,84424
+Salta,Cafayate,76808
+Salta,Capital,100669
+Salta,Cerrillos,87883
+Salta,Chicoana,75604
+Salta,General Güemes,88042
+Salta,General José de San Martín,93480
+Salta,Guachipas,75485
+Salta,Iruya,80678
+Salta,La Candelaria,74689
+Salta,La Poma,72683
+Salta,La Viña,80865
+Salta,Los Andes,90957
+Salta,Metán,85864
+Salta,Molinos,79749
+Salta,Orán,83134
+Salta,Rivadavia,85123
+Salta,Rosario de Lerma,85510
+Salta,Rosario de la Frontera,83952
+Salta,San Carlos,75083
+Salta,Santa Victoria,71191
+San Juan,25 de Mayo,69852
+San Juan,9 de Julio,207820
+San Juan,Albardón,84313
+San Juan,Angaco,70179
+San Juan,Calingasta,86486
+San Juan,Capital,103584
+San Juan,Caucete,79846
+San Juan,Chimbas,78581
+San Juan,Iglesia,102715
+San Juan,Jáchal,93548
+San Juan,Pocito,74428
+San Juan,Rawson,83472
+San Juan,Rivadavia,95784
+San Juan,San Martín,73688
+San Juan,Santa Lucía,90724
+San Juan,Sarmiento,72989
+San Juan,Ullum,94490
+San Juan,Valle Fértil,77702
+San Juan,Zonda,70485
+San Luis,Ayacucho,77821
+San Luis,Belgrano,62461
+San Luis,Chacabuco,80197
+San Luis,Coronel Pringles,93108
+San Luis,General Pedernera,99307
+San Luis,Gobernador Dupuy,74624
+San Luis,Juan Martín de Pueyrredón,88170
+San Luis,Junín,77813
+San Luis,Libertador General San Martín,64076
+Santa Cruz,Corpen Aike,130618
+Santa Cruz,Deseado,176185
+Santa Cruz,Güer Aike,147388
+Santa Cruz,Lago Argentino,109108
+Santa Cruz,Lago Buenos Aires,172144
+Santa Cruz,Magallanes,161693
+Santa Cruz,Río Chico,164844
+Santa Fe,9 de Julio,85524
+Santa Fe,Belgrano,81804
+Santa Fe,Caseros,86780
+Santa Fe,Castellanos,100561
+Santa Fe,Constitución,106962
+Santa Fe,Garay,88531
+Santa Fe,General López,91282
+Santa Fe,General Obligado,87247
+Santa Fe,Iriondo,91225
+Santa Fe,La Capital,98191
+Santa Fe,Las Colonias,95597
+Santa Fe,Rosario,99958
+Santa Fe,San Cristóbal,87855
+Santa Fe,San Javier,82065
+Santa Fe,San Jerónimo,90978
+Santa Fe,San Justo,87890
+Santa Fe,San Lorenzo,114267
+Santa Fe,San Martín,88386
+Santa Fe,Vera,86260
+Santiago Del Estero,Aguirre,59397
+Santiago Del Estero,Alberdi,55153
+Santiago Del Estero,Atamisqui,50129
+Santiago Del Estero,Avellaneda,54493
+Santiago Del Estero,Banda,59351
+Santiago Del Estero,Belgrano,65517
+Santiago Del Estero,Capital,62157
+Santiago Del Estero,Choya,62890
+Santiago Del Estero,Copo,58277
+Santiago Del Estero,Figueroa,48756
+Santiago Del Estero,General Taboada,46604
+Santiago Del Estero,Guasayán,50382
+Santiago Del Estero,Jiménez,51353
+Santiago Del Estero,Juan Felipe Ibarra,52556
+Santiago Del Estero,Loreto,53596
+Santiago Del Estero,Mitre,53535
+Santiago Del Estero,Moreno,57942
+Santiago Del Estero,Ojo de Agua,55869
+Santiago Del Estero,Pellegrini,52659
+Santiago Del Estero,Quebrachos,55725
+Santiago Del Estero,Rivadavia,65240
+Santiago Del Estero,Robles,58258
+Santiago Del Estero,Río Hondo,58050
+Santiago Del Estero,Salavina,51619
+Santiago Del Estero,San Martín,46617
+Santiago Del Estero,Sarmiento,53130
+Santiago Del Estero,Silípica,52710
+Tierra Del Fuego,Río Grande,133718
+Tierra Del Fuego,Tolhuin,133718
+Tierra Del Fuego,Ushuaia,132146
+Tucuman,Burruyacú,44908
+Tucuman,Capital,78072
+Tucuman,Chicligasta,71424
+Tucuman,Cruz Alta,57781
+Tucuman,Famaillá,56872
+Tucuman,Graneros,56972
+Tucuman,Juan Bautista Alberdi,61542
+Tucuman,La Cocha,51927
+Tucuman,Leales,52245
+Tucuman,Lules,62238
+Tucuman,Monteros,57564
+Tucuman,Río Chico,59284
+Tucuman,Simoca,51215
+Tucuman,Tafí Viejo,67517
+Tucuman,Tafí del Valle,53401
+Tucuman,Trancas,54469
+Tucuman,Yerba Buena,89060

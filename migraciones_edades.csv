@@ -1,0 +1,528 @@
+name,identifier,total,mujer,hombre,total_esta,total_otra,total_fuera,mujer_esta,mujer_otra,mujer_fuera,hombre_esta,hombre_otra,hombre_fuera
+buenos aires,partido Adolfo Alsina,42,42,37,42,27,32,42,27,37,37,27,32
+buenos aires,partido Adolfo Gonzales Chaves,42,32,27,27,32,42,32,37,42,27,32,42
+buenos aires,partido Alberti,42,42,32,42,67,37,42,67,47,32,67,37
+buenos aires,partido Almirante Brown,27,27,22,22,67,37,22,67,37,22,67,37
+buenos aires,partido Arrecifes,22,22,22,22,42,32,22,42,37,22,42,32
+buenos aires,partido Avellaneda,42,42,32,22,57,37,22,62,37,22,47,37
+buenos aires,partido Ayacucho,32,32,32,32,32,47,32,32,37,32,37,22
+buenos aires,partido Azul,42,42,42,42,42,37,42,42,37,27,42,37
+buenos aires,partido Bahía Blanca,22,22,22,22,22,67,32,22,67,22,22,67
+buenos aires,partido Balcarce,42,42,42,42,62,32,42,52,42,22,62,32
+buenos aires,partido Baradero,22,22,22,22,42,32,22,42,32,22,42,42
+buenos aires,partido Benito Juárez,42,42,42,42,67,42,47,67,42,42,57,32
+buenos aires,partido Berazategui,22,22,22,22,67,72,22,67,57,22,62,72
+buenos aires,partido Berisso,22,22,22,22,57,32,22,62,32,22,57,32
+buenos aires,partido Bolívar,32,32,42,42,37,37,32,37,37,42,32,27
+buenos aires,partido Bragado,42,42,42,42,42,42,42,42,42,42,42,42
+buenos aires,partido Brandsen,22,37,22,22,47,32,22,42,32,22,47,47
+buenos aires,partido Campana,22,22,22,22,62,37,22,62,37,22,67,37
+buenos aires,partido Cañuelas,32,37,32,22,47,37,22,47,37,22,47,37
+buenos aires,partido Capitán Sarmiento,42,42,42,42,42,32,42,42,47,22,42,32
+buenos aires,partido Carlos Casares,42,42,27,42,32,37,42,32,37,27,27,27
+buenos aires,partido Carlos Tejedor,47,47,42,47,42,37,37,47,47,47,37,37
+buenos aires,partido Carmen de Areco,42,42,22,22,37,42,42,42,42,22,37,42
+buenos aires,partido Castelli,22,22,22,22,42,37,22,22,37,22,37,22
+buenos aires,partido Chacabuco,42,42,42,42,42,37,42,42,37,22,42,37
+buenos aires,partido Chascomús,42,42,42,42,42,32,42,42,42,42,62,32
+buenos aires,partido Chivilcoy,42,42,42,42,42,32,42,42,32,42,42,32
+buenos aires,partido Colón,22,32,22,22,42,27,22,42,32,22,42,27
+buenos aires,partido Coronel de Marina Leonardo Rosales,22,42,22,22,47,77,22,27,77,22,47,77
+buenos aires,partido Coronel Dorrego,42,42,42,42,42,22,42,42,22,32,47,52
+buenos aires,partido Coronel Pringles,32,32,32,32,42,47,27,42,27,32,27,47
+buenos aires,partido Coronel Suárez,32,37,32,32,42,37,37,47,37,32,42,32
+buenos aires,partido Daireaux,42,42,32,42,42,32,42,42,32,32,52,32
+buenos aires,partido Dolores,22,42,22,22,47,37,27,47,37,22,42,22
+buenos aires,partido Ensenada,22,22,22,22,67,47,22,62,47,22,67,27
+buenos aires,partido Escobar,42,42,22,22,57,37,22,47,37,22,57,37
+buenos aires,partido Esteban Echeverría,27,27,22,22,62,37,22,62,37,22,62,37
+buenos aires,partido Exaltación de la Cruz,42,42,42,22,47,42,22,47,32,22,42,42
+buenos aires,partido Ezeiza,22,27,22,22,42,37,22,42,37,22,42,37
+buenos aires,partido Florencio Varela,22,22,22,22,62,37,22,62,37,22,57,37
+buenos aires,partido Florentino Ameghino,27,27,22,27,42,27,27,42,27,22,37,32
+buenos aires,partido General Alvarado,42,42,22,22,67,77,42,67,72,22,67,77
+buenos aires,partido General Alvear,32,32,42,27,32,32,32,32,42,42,32,72
+buenos aires,partido General Arenales,42,42,37,42,32,42,42,37,42,37,32,37
+buenos aires,partido General Belgrano,42,42,42,42,42,37,42,67,37,42,42,37
+buenos aires,partido General Guido,32,37,42,37,47,32,37,82,32,42,47,22
+buenos aires,partido General Juan Madariaga,42,42,32,22,42,42,42,42,42,22,47,32
+buenos aires,partido General La Madrid,42,42,42,42,47,22,27,37,42,42,47,22
+buenos aires,partido General Las Heras,22,22,32,22,62,27,22,47,27,32,62,32
+buenos aires,partido General Lavalle,42,42,42,42,37,72,42,47,72,42,37,77
+buenos aires,partido General Paz,42,42,22,22,42,67,42,42,52,22,57,27
+buenos aires,partido General Pinto,22,22,27,22,47,32,22,47,32,22,42,42
+buenos aires,partido General Pueyrredón,42,42,22,22,62,72,22,67,77,22,62,72
+buenos aires,partido General Rodríguez,32,32,37,22,42,37,22,42,32,22,42,37
+buenos aires,partido General San Martín,32,42,32,22,67,37,27,67,37,22,57,37
+buenos aires,partido General Viamonte,42,42,42,42,32,32,27,22,22,42,32,32
+buenos aires,partido General Villegas,32,27,32,32,42,42,27,47,37,22,32,32
+buenos aires,partido Guaminí,42,42,42,42,42,32,42,42,37,42,42,32
+buenos aires,partido Hipólito Yrigoyen,32,32,27,47,32,32,47,52,37,27,42,67
+buenos aires,partido Hurlingham,22,42,22,22,67,72,22,67,72,22,67,72
+buenos aires,partido Ituzaingó,42,42,42,42,67,72,42,72,72,22,57,72
+buenos aires,partido José C. paz,22,27,22,22,67,37,22,67,37,22,62,37
+buenos aires,partido Junín,42,42,42,42,42,32,42,67,42,42,42,32
+buenos aires,partido La Costa,32,32,32,22,67,37,22,67,32,22,67,37
+buenos aires,partido La Matanza,27,27,27,27,67,37,27,67,37,22,57,37
+buenos aires,partido Lanús,42,42,42,42,62,37,42,67,37,22,42,32
+buenos aires,partido La Plata,22,22,22,22,27,32,22,27,32,22,27,32
+buenos aires,partido Laprida,42,37,42,27,42,37,37,47,47,42,42,37
+buenos aires,partido Las Flores,42,42,42,42,37,32,42,27,42,42,37,52
+buenos aires,partido Leandro N. alem,42,42,42,42,42,37,42,42,52,42,57,37
+buenos aires,partido Lezama,32,32,32,32,52,32,32,52,37,42,32,32
+buenos aires,partido Lincoln,42,42,42,42,42,32,42,42,42,42,32,32
+buenos aires,partido Lobería,32,32,32,32,32,27,32,32,32,32,42,27
+buenos aires,partido Lobos,42,42,22,22,47,37,42,47,37,22,42,37
+buenos aires,partido Lomas de Zamora,32,32,32,22,67,37,27,67,32,22,62,37
+buenos aires,partido Luján,42,42,42,22,42,37,27,42,37,22,42,37
+buenos aires,partido Magdalena,27,27,27,27,27,37,27,27,37,27,27,37
+buenos aires,partido Maipú,37,32,37,37,32,32,37,32,37,37,37,32
+buenos aires,partido Malvinas Argentinas,22,22,22,22,62,37,22,67,37,22,62,37
+buenos aires,partido Mar Chiquita,42,42,42,42,62,72,42,67,37,42,37,72
+buenos aires,partido Marcos Paz,27,27,22,22,57,37,22,57,37,22,57,37
+buenos aires,partido Mercedes,37,37,22,22,22,37,37,37,32,22,22,37
+buenos aires,partido Merlo,27,27,22,22,67,37,22,67,37,22,67,37
+buenos aires,partido Monte,42,42,32,42,42,37,42,42,37,32,42,32
+buenos aires,partido Monte Hermoso,42,42,32,42,27,37,42,27,37,32,57,37
+buenos aires,partido Moreno,27,27,27,22,62,37,22,67,32,22,62,37
+buenos aires,partido Morón,42,42,42,42,67,77,42,72,77,32,62,72
+buenos aires,partido Navarro,32,32,27,32,42,37,32,42,37,32,27,22
+buenos aires,partido Necochea,42,42,42,42,57,72,42,57,72,42,67,72
+buenos aires,partido 9 de Julio,42,42,42,42,32,32,42,37,32,22,32,32
+buenos aires,partido Olavarría,22,42,22,22,32,37,22,42,32,22,32,37
+buenos aires,partido Patagones,32,32,32,27,37,37,27,37,42,27,37,37
+buenos aires,partido Pehuajó,32,32,32,32,32,27,27,32,22,32,32,27
+buenos aires,partido Pellegrini,32,32,27,22,47,32,32,32,27,27,47,32
+buenos aires,partido Pergamino,37,37,37,32,42,37,32,62,37,32,47,37
+buenos aires,partido Pila,32,32,22,22,32,37,27,42,37,22,32,37
+buenos aires,partido Pilar,22,22,22,22,52,37,22,52,37,22,52,37
+buenos aires,partido Pinamar,42,42,37,22,42,37,22,42,37,22,27,32
+buenos aires,partido Presidente Perón,22,22,22,22,57,37,22,57,37,22,62,37
+buenos aires,partido Puan,42,42,32,42,32,22,42,27,37,57,32,72
+buenos aires,partido Punta Indio,27,32,22,42,27,32,42,27,32,22,57,32
+buenos aires,partido Quilmes,27,27,22,22,67,37,22,67,37,22,62,37
+buenos aires,partido Ramallo,27,27,27,27,47,27,27,42,32,22,47,27
+buenos aires,partido Rauch,42,42,22,42,37,37,42,42,37,22,37,32
+buenos aires,partido Rivadavia,27,32,27,27,32,37,27,32,37,27,32,37
+buenos aires,partido Rojas,42,42,37,37,42,37,42,42,42,22,42,47
+buenos aires,partido Roque Pérez,32,32,32,22,37,37,42,37,47,22,32,37
+buenos aires,partido Saavedra,42,42,42,42,27,47,42,32,32,42,27,22
+buenos aires,partido Saladillo,42,42,42,42,37,32,42,37,32,42,42,32
+buenos aires,partido Salliqueló,42,42,42,42,52,47,47,52,52,42,27,47
+buenos aires,partido Salto,32,27,32,22,37,37,27,47,27,22,37,37
+buenos aires,partido San Andrés de Giles,32,27,22,22,42,37,27,42,37,22,37,42
+buenos aires,partido San Antonio de Areco,37,37,42,37,42,32,32,57,32,22,42,42
+buenos aires,partido San Cayetano,47,47,27,47,22,37,47,22,37,27,72,22
+buenos aires,partido San Fernando,27,32,27,27,67,37,27,67,42,22,62,37
+buenos aires,partido San Isidro,42,47,22,22,62,77,42,62,77,22,62,77
+buenos aires,partido San Miguel,27,27,27,27,67,37,27,67,37,22,62,32
+buenos aires,partido San Nicolás,42,42,42,22,67,72,42,67,72,22,62,37
+buenos aires,partido San Pedro,22,27,22,22,57,32,22,42,37,22,62,32
+buenos aires,partido San Vicente,22,32,22,22,42,37,22,42,37,22,42,37
+buenos aires,partido Suipacha,32,32,42,32,52,42,32,52,42,22,42,37
+buenos aires,partido Tandil,42,42,22,42,42,32,42,42,32,22,47,37
+buenos aires,partido Tapalqué,22,22,22,22,42,32,22,42,67,22,52,27
+buenos aires,partido Tigre,22,42,22,22,47,37,22,47,37,22,47,37
+buenos aires,partido Tordillo,22,27,22,32,42,22,27,42,22,22,27,22
+buenos aires,partido Tornquist,37,37,37,37,62,62,37,62,62,37,72,62
+buenos aires,partido Trenque Lauquen,32,32,42,32,42,32,32,37,32,42,42,32
+buenos aires,partido Tres Arroyos,42,42,42,42,42,72,42,42,37,42,37,72
+buenos aires,partido Tres de Febrero,42,42,42,27,67,32,32,67,32,22,62,32
+buenos aires,partido Tres Lomas,32,32,32,32,42,27,32,37,32,32,42,27
+buenos aires,partido 25 de Mayo,32,42,32,32,32,32,42,52,32,32,32,32
+buenos aires,partido Vicente López,42,47,42,42,47,32,42,47,32,42,47,32
+buenos aires,partido Villa Gesell,42,42,32,22,62,37,27,62,37,22,42,37
+buenos aires,partido Villarino,27,27,27,27,42,42,27,42,42,27,42,42
+buenos aires,partido Zárate,22,22,22,22,42,42,22,62,37,22,42,42
+ciudad autonoma de buenos aires,Comuna 1,27,27,27,22,32,32,22,32,32,22,32,32
+ciudad autonoma de buenos aires,Comuna 2,22,22,22,22,22,27,22,22,27,22,22,27
+ciudad autonoma de buenos aires,Comuna 3,32,32,32,22,32,32,22,32,32,22,32,32
+ciudad autonoma de buenos aires,Comuna 4,32,32,32,22,42,32,22,42,32,22,42,32
+ciudad autonoma de buenos aires,Comuna 5,32,32,32,37,37,32,42,32,32,37,37,32
+ciudad autonoma de buenos aires,Comuna 6,37,42,37,42,42,32,42,42,32,37,37,32
+ciudad autonoma de buenos aires,Comuna 7,32,42,32,22,42,32,42,62,32,22,47,32
+ciudad autonoma de buenos aires,Comuna 8,22,22,22,22,57,37,22,57,37,22,42,37
+ciudad autonoma de buenos aires,Comuna 9,42,42,42,22,42,32,22,67,32,22,42,32
+ciudad autonoma de buenos aires,Comuna 10,42,42,42,42,42,32,47,62,32,42,42,32
+ciudad autonoma de buenos aires,Comuna 11,42,42,42,42,42,32,42,47,32,42,42,32
+ciudad autonoma de buenos aires,Comuna 12,37,37,37,42,37,32,42,37,32,42,37,32
+ciudad autonoma de buenos aires,Comuna 13,32,32,32,47,37,32,47,37,32,47,37,32
+ciudad autonoma de buenos aires,Comuna 14,32,32,32,32,32,32,27,32,32,32,32,32
+ciudad autonoma de buenos aires,Comuna 15,32,32,32,37,37,32,37,32,32,37,37,32
+catamarca,departamento Ambato,22,27,22,22,57,22,27,57,42,22,37,22
+catamarca,departamento Ancasti,22,22,27,22,42,37,22,42,37,22,37,42
+catamarca,departamento Andalgalá,22,22,27,22,42,47,22,42,47,22,47,47
+catamarca,departamento Antofagasta de la Sierra,22,22,22,22,27,27,22,22,27,22,27,0
+catamarca,departamento Belén,27,27,27,27,37,57,27,37,52,27,37,32
+catamarca,departamento Capayán,22,22,22,22,42,52,22,42,22,22,42,52
+catamarca,departamento Capital,22,27,22,22,42,37,22,42,47,22,42,37
+catamarca,departamento El Alto,22,27,22,27,22,57,27,27,52,27,22,57
+catamarca,departamento Fray Mamerto Esquiú,22,22,22,22,42,37,22,42,37,22,47,37
+catamarca,departamento La Paz,22,22,22,22,42,42,22,42,52,22,42,42
+catamarca,departamento Paclín,22,22,22,22,42,42,22,42,42,22,47,42
+catamarca,departamento Pomán,27,27,22,22,42,52,22,42,47,22,42,52
+catamarca,departamento Santa María,27,27,22,22,42,32,27,42,32,22,42,52
+catamarca,departamento Santa Rosa,22,22,22,22,47,42,22,47,42,22,42,57
+catamarca,departamento Tinogasta,27,27,27,27,27,32,27,32,32,27,27,22
+catamarca,departamento Valle Viejo,22,27,22,22,42,37,22,42,37,22,42,42
+chaco,departamento Almirante Brown,22,22,22,22,27,32,22,27,47,22,47,27
+chaco,departamento Bermejo,22,27,22,22,27,72,27,27,82,22,22,72
+chaco,departamento Chacabuco,27,27,27,27,37,32,27,27,32,27,37,32
+chaco,departamento Comandante Fernández,22,22,22,22,22,22,22,27,42,22,22,22
+chaco,departamento 12 de Octubre,27,27,22,22,47,27,27,42,62,22,47,27
+chaco,departamento 2 de Abril,22,27,22,22,47,27,27,47,32,22,52,27
+chaco,departamento Fray Justo Santa María de Oro,27,27,22,27,42,22,27,42,22,22,27,22
+chaco,departamento General Belgrano,22,22,22,22,52,27,22,27,27,22,52,32
+chaco,departamento General Donovan,22,32,22,22,47,37,22,47,37,22,47,32
+chaco,departamento General Güemes,22,27,22,22,27,27,22,27,37,22,27,27
+chaco,departamento Independencia,22,27,22,22,27,27,27,27,47,22,22,27
+chaco,departamento Libertad,27,22,27,27,42,42,22,37,42,27,47,32
+chaco,departamento Libertador General San Martín,22,22,22,22,32,77,22,32,52,22,22,67
+chaco,departamento Maipú,27,27,22,27,27,22,27,32,27,22,27,77
+chaco,departamento Mayor Luis J. fontana,27,27,27,27,47,32,27,32,32,27,47,22
+chaco,departamento 9 de Julio,27,27,27,27,27,27,27,27,37,27,42,27
+chaco,departamento O'Higgins,22,22,22,22,27,87,22,27,87,22,22,22
+chaco,departamento Presidencia de la Plaza,22,22,22,22,22,57,22,22,37,22,22,57
+chaco,departamento 1° de Mayo,27,27,22,22,27,37,27,47,37,22,27,52
+chaco,departamento Quitilipi,22,22,22,22,27,32,22,27,77,22,37,32
+chaco,departamento San Fernando,27,27,27,27,47,67,27,47,67,27,42,32
+chaco,departamento San Lorenzo,22,22,22,22,22,47,22,27,32,22,22,37
+chaco,departamento Sargento Cabral,22,22,22,22,22,32,22,22,47,22,22,32
+chaco,departamento Tapenagá,22,22,27,22,52,57,22,62,57,27,52,62
+chaco,departamento 25 de Mayo,22,27,22,22,32,22,27,32,47,22,22,52
+chubut,departamento Biedma,42,42,37,22,42,37,27,42,37,22,42,42
+chubut,departamento Cushamen,42,42,42,27,42,52,37,42,52,27,42,72
+chubut,departamento Escalante,32,32,32,32,37,67,32,37,67,27,37,67
+chubut,departamento Florentino Ameghino,27,27,37,27,37,37,27,27,32,37,37,37
+chubut,departamento Futaleufú,37,37,42,22,42,62,37,42,67,22,42,72
+chubut,departamento Gaiman,22,32,22,22,47,32,32,47,32,22,47,72
+chubut,departamento Gastre,42,32,42,42,32,37,42,27,42,42,32,37
+chubut,departamento Languiñeo,27,27,27,27,32,57,27,47,52,22,32,57
+chubut,departamento Mártires,57,32,57,57,47,47,32,47,27,57,22,57
+chubut,departamento Paso de Indios,27,27,27,27,32,52,27,22,32,27,32,52
+chubut,departamento Rawson,42,42,27,27,42,67,27,47,67,27,42,67
+chubut,departamento Río Senguer,27,32,27,27,32,67,27,32,67,27,32,77
+chubut,departamento Sarmiento,27,27,37,27,32,42,27,32,47,22,32,57
+chubut,departamento Tehuelches,32,32,37,32,32,32,32,32,32,32,42,67
+chubut,departamento Telsen,32,32,42,32,32,32,32,32,32,42,22,47
+cordoba,departamento Calamuchita,42,42,42,22,42,37,22,42,37,22,42,42
+cordoba,departamento Capital,22,22,22,22,22,32,22,22,32,22,22,32
+cordoba,departamento Colón,42,42,42,22,42,42,42,42,42,22,42,42
+cordoba,departamento Cruz del Eje,27,27,27,27,42,32,22,42,32,27,42,32
+cordoba,departamento General Roca,32,32,42,32,42,37,32,42,37,22,42,27
+cordoba,departamento General San Martín,27,27,32,22,27,37,22,27,37,32,32,32
+cordoba,departamento Ischilín,22,22,22,22,42,42,22,47,42,22,42,37
+cordoba,departamento Juárez Celman,27,27,32,27,27,32,32,27,37,27,42,32
+cordoba,departamento Marcos Juárez,42,42,42,42,42,37,42,47,37,42,42,37
+cordoba,departamento Minas,27,27,27,27,62,22,27,62,0,27,62,22
+cordoba,departamento Pocho,22,22,22,22,67,72,22,57,72,22,67,32
+cordoba,departamento Presidente Roque Sáenz Peña,42,42,22,22,42,42,42,42,42,22,42,27
+cordoba,departamento Punilla,42,42,42,22,42,42,22,42,42,22,42,42
+cordoba,departamento Río Cuarto,22,22,22,22,22,32,22,22,37,22,22,32
+cordoba,departamento Río Primero,22,22,22,22,42,32,22,32,22,22,42,32
+cordoba,departamento Río Seco,27,22,27,27,47,37,22,47,42,27,52,37
+cordoba,departamento Río Segundo,22,22,22,22,42,32,22,42,37,22,37,32
+cordoba,departamento San Alberto,22,27,22,22,47,42,27,47,42,22,42,42
+cordoba,departamento San Javier,42,42,42,22,42,37,27,42,47,22,42,37
+cordoba,departamento San Justo,32,32,27,22,32,32,32,37,32,22,32,32
+cordoba,departamento Santa María,42,42,42,42,42,37,42,42,37,42,42,37
+cordoba,departamento Sobremonte,22,27,22,27,32,22,27,37,47,22,32,32
+cordoba,departamento Tercero Arriba,42,42,42,22,42,37,37,42,42,22,42,37
+cordoba,departamento Totoral,42,42,27,22,42,32,22,42,37,27,42,32
+cordoba,departamento Tulumba,22,22,27,22,32,37,22,32,37,27,47,67
+cordoba,departamento Unión,42,42,27,42,42,37,42,42,37,27,37,37
+corrientes,departamento Bella Vista,22,27,22,22,42,32,27,42,42,22,42,47
+corrientes,departamento Berón de Astrada,22,22,22,22,32,42,22,27,37,22,42,72
+corrientes,departamento Capital,22,22,22,22,22,32,22,22,67,22,42,27
+corrientes,departamento Concepción,22,22,22,22,32,37,22,27,37,22,32,37
+corrientes,departamento Curuzú Cuatiá,22,27,22,22,32,32,27,27,32,22,32,37
+corrientes,departamento Empedrado,22,22,22,22,42,57,27,37,57,22,42,57
+corrientes,departamento Esquina,22,22,22,22,22,37,22,22,27,22,22,37
+corrientes,departamento General Alvear,22,22,22,22,22,37,22,37,32,22,22,52
+corrientes,departamento General Paz,22,22,22,22,37,67,22,37,67,22,37,77
+corrientes,departamento Goya,27,27,22,22,42,37,27,32,32,22,42,37
+corrientes,departamento Itatí,27,27,27,27,37,77,27,27,37,27,37,77
+corrientes,departamento Ituzaingó,22,22,22,22,42,52,22,42,52,22,42,67
+corrientes,departamento Lavalle,22,22,22,22,32,27,22,32,32,22,32,27
+corrientes,departamento Mburucuyá,22,22,22,22,27,62,22,32,37,22,27,57
+corrientes,departamento Mercedes,27,22,27,22,27,52,22,27,52,27,27,37
+corrientes,departamento Monte Caseros,22,22,22,22,22,37,22,27,37,22,32,47
+corrientes,departamento Paso de los Libres,27,27,22,27,42,52,27,42,52,22,42,32
+corrientes,departamento Saladas,22,22,22,22,22,32,22,37,27,22,22,57
+corrientes,departamento San Cosme,27,27,22,22,42,32,27,52,32,22,42,32
+corrientes,departamento San Luis del Palmar,22,27,22,22,37,42,27,27,42,22,22,32
+corrientes,departamento San Martín,22,22,32,22,27,62,22,47,62,32,42,32
+corrientes,departamento San Miguel,22,22,22,22,22,52,22,22,42,22,32,67
+corrientes,departamento San Roque,22,27,22,22,27,27,22,27,37,22,22,27
+corrientes,departamento Santo Tomé,22,22,22,22,22,22,22,22,22,22,22,22
+corrientes,departamento Sauce,27,27,27,27,22,47,27,22,47,27,42,32
+entre rios,departamento Colón,32,32,32,32,42,37,32,42,52,32,42,37
+entre rios,departamento Concordia,22,22,22,22,37,52,22,37,52,22,37,52
+entre rios,departamento Diamante,22,22,22,27,22,22,27,22,22,27,22,22
+entre rios,departamento Federación,27,27,27,27,37,42,27,37,37,27,42,32
+entre rios,departamento Federal,22,22,22,22,27,37,22,27,37,22,37,37
+entre rios,departamento Feliciano,22,27,22,22,37,52,27,32,27,22,37,52
+entre rios,departamento Gualeguay,27,27,27,27,42,27,27,37,32,27,42,27
+entre rios,departamento Gualeguaychú,42,42,42,42,42,52,42,42,42,42,42,52
+entre rios,departamento Islas del Ibicuy,27,27,22,22,27,52,27,27,52,22,32,37
+entre rios,departamento La Paz,22,27,22,22,32,32,27,37,32,22,32,32
+entre rios,departamento Nogoyá,32,32,27,32,42,37,32,42,62,27,32,77
+entre rios,departamento Paraná,22,32,22,22,42,37,22,42,37,22,42,32
+entre rios,departamento San Salvador,27,32,27,27,32,27,22,42,27,27,27,47
+entre rios,departamento Tala,27,32,27,22,37,52,22,32,52,27,37,27
+entre rios,departamento Uruguay,22,22,22,22,37,37,22,37,22,22,32,37
+entre rios,departamento Victoria,32,37,32,22,42,37,22,42,37,22,47,27
+entre rios,departamento Villaguay,22,22,22,22,27,27,22,22,27,22,37,52
+formosa,departamento Bermejo,22,22,22,22,42,52,22,42,52,22,42,47
+formosa,departamento Formosa,27,27,27,27,42,72,27,42,67,27,42,72
+formosa,departamento Laishi,22,22,22,22,47,77,22,42,37,22,47,77
+formosa,departamento Matacos,27,27,27,27,37,37,27,37,37,27,37,57
+formosa,departamento Patiño,22,27,22,22,27,37,22,27,32,22,32,37
+formosa,departamento Pilagás,27,27,22,27,27,77,27,22,67,22,27,72
+formosa,departamento Pilcomayo,27,27,22,22,42,72,27,42,57,22,42,72
+formosa,departamento Pirané,27,22,27,22,32,72,22,32,72,27,67,77
+formosa,departamento Ramón Lista,22,22,22,22,42,32,22,42,32,22,22,32
+jujuy,departamento Cochinoca,22,22,22,22,22,22,22,22,22,22,22,22
+jujuy,departamento Doctor Manuel Belgrano,27,27,27,27,42,57,27,42,57,27,42,42
+jujuy,departamento El Carmen,22,22,22,22,22,67,22,27,67,22,22,67
+jujuy,departamento Humahuaca,27,22,27,27,27,37,27,22,32,27,27,37
+jujuy,departamento Ledesma,22,27,22,22,27,72,22,27,77,22,42,72
+jujuy,departamento Palpalá,42,42,22,42,47,72,42,47,72,22,47,77
+jujuy,departamento Rinconada,22,32,22,22,32,72,22,32,72,22,27,37
+jujuy,departamento San Antonio,42,42,42,42,42,57,42,42,57,42,52,57
+jujuy,departamento San Pedro,27,27,27,27,27,77,27,27,77,27,22,67
+jujuy,departamento Santa Bárbara,27,27,22,22,52,62,27,52,57,22,52,62
+jujuy,departamento Santa Catalina,22,22,22,22,22,47,22,22,27,22,22,62
+jujuy,departamento Susques,22,22,22,22,22,52,22,22,22,22,22,52
+jujuy,departamento Tilcara,27,27,22,22,42,37,27,37,37,22,42,37
+jujuy,departamento Tumbaya,22,22,27,22,27,22,22,27,22,22,27,42
+jujuy,departamento Valle Grande,22,27,22,27,42,22,27,42,22,22,22,22
+jujuy,departamento Yavi,22,22,22,22,37,42,22,37,42,22,22,42
+la pampa,departamento Atreucó,32,37,32,32,62,37,32,37,37,32,57,27
+la pampa,departamento Caleu Caleu,32,37,32,37,32,62,37,42,62,22,32,82
+la pampa,departamento Capital,32,32,32,32,42,67,27,42,37,32,42,67
+la pampa,departamento Catriló,32,32,27,27,42,67,22,42,67,27,42,32
+la pampa,departamento Chalileo,27,27,27,27,47,42,27,47,22,27,42,42
+la pampa,departamento Chapaleufú,42,37,42,32,42,22,32,42,32,22,42,22
+la pampa,departamento Chical Co,27,37,27,32,37,42,32,27,42,27,47,0
+la pampa,departamento Conhelo,32,32,32,32,47,37,32,47,37,32,42,67
+la pampa,departamento Curacó,32,32,37,32,37,37,32,27,57,27,37,27
+la pampa,departamento Guatraché,42,42,37,22,42,42,22,42,42,22,47,37
+la pampa,departamento Hucal,42,42,42,42,47,37,37,47,37,32,42,77
+la pampa,departamento Lihuel Calel,32,32,32,32,52,42,52,32,32,32,52,22
+la pampa,departamento Limay Mahuida,37,32,37,32,47,72,32,32,0,37,47,72
+la pampa,departamento Loventué,27,27,32,27,42,42,27,42,42,32,47,67
+la pampa,departamento Maracó,27,32,27,27,42,32,27,42,32,27,42,47
+la pampa,departamento Puelén,32,32,32,27,32,42,27,32,62,27,42,42
+la pampa,departamento Quemú Quemú,42,42,32,32,42,42,27,42,42,32,47,67
+la pampa,departamento Rancul,32,37,32,32,42,42,32,42,42,32,47,47
+la pampa,departamento Realicó,32,32,32,32,47,32,27,47,37,32,57,32
+la pampa,departamento Toay,42,37,42,37,42,57,37,42,52,42,42,32
+la pampa,departamento Trenel,32,32,32,32,47,42,32,47,37,27,42,42
+la pampa,departamento Utracán,32,32,32,32,32,32,32,32,32,32,32,32
+la rioja,departamento Arauco,27,27,27,27,42,42,27,37,42,27,47,57
+la rioja,departamento Ángel Vicente Peñaloza,22,22,22,22,42,27,22,42,27,22,57,27
+la rioja,departamento Capital,27,27,27,27,42,22,27,42,22,27,42,22
+la rioja,departamento Castro Barros,27,27,32,27,52,37,27,52,37,32,42,32
+la rioja,departamento Chamical,27,27,27,27,47,37,27,37,37,27,47,67
+la rioja,departamento Chilecito,27,27,27,27,42,32,27,42,42,27,42,32
+la rioja,departamento Famatina,27,27,27,27,42,42,27,52,37,27,42,32
+la rioja,departamento General Belgrano,27,27,27,27,47,37,27,32,37,27,47,37
+la rioja,departamento General Felipe Varela,27,27,32,27,42,42,27,42,42,27,32,47
+la rioja,departamento General Juan Facundo Quiroga,27,27,27,27,67,32,27,27,32,27,67,32
+la rioja,departamento General Lamadrid,32,32,27,27,47,47,27,47,47,32,47,42
+la rioja,departamento General Ortiz de Ocampo,27,27,27,27,27,42,27,27,27,22,32,42
+la rioja,departamento General San Martín,27,27,27,27,37,52,27,52,52,22,27,27
+la rioja,departamento Independencia,22,22,42,22,47,57,22,27,57,22,57,27
+la rioja,departamento Rosario Vera Peñaloza,27,27,27,27,32,22,27,32,22,27,32,22
+la rioja,departamento San Blas de los Sauces,27,27,32,27,37,32,27,42,22,22,37,32
+la rioja,departamento Sanagasta,27,27,22,27,42,37,27,37,37,22,42,72
+la rioja,departamento Vinchina,27,27,27,27,42,72,27,42,27,27,42,72
+mendoza,departamento Capital,32,32,32,32,32,37,32,32,52,32,32,32
+mendoza,departamento General Alvear,27,32,27,27,42,72,32,42,72,27,42,77
+mendoza,departamento Godoy Cruz,32,32,32,32,42,57,32,72,72,32,42,52
+mendoza,departamento Guaymallén,27,27,27,27,47,47,27,42,52,22,47,47
+mendoza,departamento Junín,27,27,22,27,67,57,27,67,57,22,42,67
+mendoza,departamento La Paz,27,27,27,27,42,32,27,62,32,27,32,37
+mendoza,departamento Las Heras,27,27,27,27,47,52,27,67,52,22,42,52
+mendoza,departamento Lavalle,27,27,27,27,42,47,22,42,47,27,42,47
+mendoza,departamento Luján de Cuyo,22,22,22,22,42,42,22,42,42,22,42,37
+mendoza,departamento Maipú,27,27,22,22,42,42,27,37,42,22,42,42
+mendoza,departamento Malargüe,27,27,32,27,42,32,27,42,32,27,42,37
+mendoza,departamento Rivadavia,27,27,27,27,67,42,27,67,42,27,27,47
+mendoza,departamento San Carlos,27,22,27,22,42,42,22,42,42,27,42,27
+mendoza,departamento San Martín,27,27,27,27,67,32,27,62,52,27,67,32
+mendoza,departamento San Rafael,22,22,22,22,42,72,22,37,72,22,42,72
+mendoza,departamento Santa Rosa,27,27,27,27,67,52,22,27,52,27,57,47
+mendoza,departamento Tunuyán,27,27,27,27,32,42,27,32,42,22,42,47
+mendoza,departamento Tupungato,27,27,22,22,27,37,27,27,42,22,37,32
+misiones,departamento Apóstoles,22,22,22,22,32,37,22,27,37,22,32,32
+misiones,departamento Cainguás,22,22,22,22,22,72,22,22,67,22,22,57
+misiones,departamento Candelaria,22,22,22,22,42,37,22,42,37,22,42,42
+misiones,departamento Capital,22,22,22,22,42,67,22,42,67,22,42,67
+misiones,departamento Concepción,22,22,22,22,37,72,22,32,57,22,37,72
+misiones,departamento Eldorado,27,27,27,27,27,72,27,42,72,27,27,72
+misiones,departamento General Manuel Belgrano,22,27,22,22,37,62,27,37,52,22,37,62
+misiones,departamento Guaraní,22,22,22,22,37,72,22,22,72,22,37,72
+misiones,departamento Iguazú,27,27,27,27,37,37,27,37,37,27,42,37
+misiones,departamento Leandro N. alem,22,22,22,22,42,62,22,42,62,22,22,62
+misiones,departamento Libertador General San Martín,22,27,22,22,32,77,27,32,77,22,32,72
+misiones,departamento Montecarlo,22,27,22,22,22,67,27,27,32,22,22,72
+misiones,departamento Oberá,22,22,22,22,22,67,22,22,77,22,22,72
+misiones,departamento San Ignacio,22,22,22,22,32,72,22,32,67,22,32,72
+misiones,departamento San Javier,22,22,22,22,32,72,22,27,77,22,32,67
+misiones,departamento San Pedro,22,22,22,22,22,67,22,27,67,22,22,67
+misiones,departamento 25 de Mayo,22,27,22,22,22,72,27,22,72,22,27,67
+neuquen,departamento Aluminé,37,37,27,27,32,62,37,37,57,27,32,62
+neuquen,departamento Añelo,27,27,27,27,27,57,27,27,57,22,27,57
+neuquen,departamento Catán Lil,32,32,37,32,32,67,32,32,77,37,32,67
+neuquen,departamento Chos Malal,32,32,32,32,32,62,32,32,52,32,32,62
+neuquen,departamento Collón Curá,27,27,27,27,57,62,27,47,62,27,57,72
+neuquen,departamento Confluencia,32,32,32,32,42,57,27,42,57,32,42,57
+neuquen,departamento Huiliches,32,32,27,27,42,52,32,42,52,27,37,62
+neuquen,departamento Lácar,32,32,32,32,42,57,32,42,62,27,42,57
+neuquen,departamento Loncopué,42,27,42,42,42,47,27,37,57,42,42,47
+neuquen,departamento Los Lagos,42,42,37,27,42,52,32,42,52,27,42,52
+neuquen,departamento Minas,42,42,32,42,32,57,42,32,67,27,32,47
+neuquen,departamento Ñorquín,32,32,47,37,32,47,27,32,52,37,32,67
+neuquen,departamento Pehuenches,42,32,42,22,42,42,27,42,42,22,42,37
+neuquen,departamento Picún Leufú,32,32,27,27,42,67,32,42,72,27,42,67
+neuquen,departamento Picunches,27,27,27,27,27,62,27,27,62,22,27,62
+neuquen,departamento Zapala,32,32,32,32,42,62,32,42,62,32,32,62
+rio negro,departamento Adolfo Alsina,42,42,32,27,42,37,27,42,62,22,42,57
+rio negro,departamento Avellaneda,22,27,22,22,42,67,27,42,67,22,32,67
+rio negro,departamento Bariloche,32,32,32,27,42,57,32,42,57,27,42,57
+rio negro,departamento Conesa,27,27,27,27,42,32,27,42,32,27,42,32
+rio negro,departamento El Cuy,42,37,42,42,37,52,47,37,47,42,22,52
+rio negro,departamento General Roca,32,32,32,27,42,67,27,42,67,22,42,67
+rio negro,departamento 9 de Julio,32,32,32,32,27,22,32,37,22,32,52,27
+rio negro,departamento Ñorquinco,37,32,37,37,42,22,22,42,22,37,42,57
+rio negro,departamento Pichi Mahuida,32,27,32,32,37,67,32,37,67,32,42,67
+rio negro,departamento Pilcaniyeu,42,42,47,42,42,57,27,42,57,37,47,47
+rio negro,departamento San Antonio,27,42,27,22,42,72,27,42,72,22,42,77
+rio negro,departamento Valcheta,22,27,22,22,57,42,27,52,42,22,57,42
+rio negro,departamento 25 de Mayo,27,27,27,27,27,57,32,27,57,27,27,27
+salta,departamento Anta,27,27,22,22,27,32,27,27,32,22,27,32
+salta,departamento Cachi,22,27,22,22,32,47,27,32,42,22,37,47
+salta,departamento Cafayate,27,27,27,27,37,37,27,37,37,27,37,62
+salta,departamento Capital,27,27,27,27,42,52,27,42,52,22,42,42
+salta,departamento Cerrillos,22,22,22,22,42,42,22,42,42,22,42,47
+salta,departamento Chicoana,22,22,22,22,27,72,22,27,72,22,37,72
+salta,departamento General Güemes,22,27,22,22,42,42,22,42,42,22,27,37
+salta,departamento General José de San Martín,22,22,22,22,27,47,22,32,47,22,27,47
+salta,departamento Guachipas,22,22,22,22,27,62,22,42,62,22,27,22
+salta,departamento Iruya,22,22,22,22,22,32,22,27,32,22,22,37
+salta,departamento La Caldera,22,42,22,22,47,47,22,47,42,22,47,47
+salta,departamento La Candelaria,22,22,22,22,27,42,22,27,57,22,42,42
+salta,departamento La Poma,22,22,22,22,22,42,22,22,0,22,47,42
+salta,departamento La Viña,22,22,22,22,27,57,22,27,52,22,22,57
+salta,departamento Los Andes,22,22,22,22,32,27,22,32,27,22,37,42
+salta,departamento Metán,27,27,22,22,22,27,27,32,27,22,22,27
+salta,departamento Molinos,22,22,22,22,47,32,22,47,32,22,42,52
+salta,departamento Orán,27,27,22,27,42,57,27,27,52,22,42,57
+salta,departamento Rivadavia,22,22,22,22,27,37,22,27,37,22,22,57
+salta,departamento Rosario de la Frontera,22,22,22,22,47,37,22,47,37,22,52,47
+salta,departamento Rosario de Lerma,22,27,22,22,37,57,22,37,72,22,47,52
+salta,departamento San Carlos,27,27,22,27,42,42,27,42,67,22,37,42
+salta,departamento Santa Victoria,22,22,22,22,22,42,22,27,42,22,22,22
+san juan,departamento Albardón,22,22,22,22,37,37,22,27,77,22,37,52
+san juan,departamento Angaco,22,22,22,22,27,72,22,32,72,22,27,37
+san juan,departamento Calingasta,27,32,27,27,32,77,27,32,77,27,32,72
+san juan,departamento Capital,32,27,32,27,32,32,27,32,27,27,32,32
+san juan,departamento Caucete,22,22,22,22,27,72,22,22,72,22,27,72
+san juan,departamento Chimbas,22,22,22,22,32,72,22,27,52,22,32,67
+san juan,departamento Iglesia,32,32,22,32,47,37,32,47,27,22,52,32
+san juan,departamento Jáchal,27,27,27,27,32,37,27,27,47,22,32,37
+san juan,departamento 9 de Julio,22,22,22,22,22,27,22,22,27,22,22,27
+san juan,departamento Pocito,22,22,22,22,42,32,22,42,32,22,37,32
+san juan,departamento Rawson,22,22,22,22,32,72,22,32,72,22,42,72
+san juan,departamento Rivadavia,22,22,22,22,42,27,22,42,27,22,37,47
+san juan,departamento San Martín,22,22,22,22,32,22,22,32,37,22,32,22
+san juan,departamento Santa Lucía,22,42,22,22,42,32,22,42,57,22,42,37
+san juan,departamento Sarmiento,22,22,22,22,27,32,22,22,47,22,32,32
+san juan,departamento Ullum,22,22,22,22,42,57,22,22,32,22,42,57
+san juan,departamento Valle Fértil,27,27,27,27,27,42,27,22,42,27,27,42
+san juan,departamento 25 de Mayo,22,22,22,22,27,42,22,22,42,22,27,72
+san juan,departamento Zonda,22,22,22,22,42,42,22,32,37,22,42,42
+san luis,departamento Ayacucho,27,32,27,22,42,57,22,32,32,22,37,52
+san luis,departamento Belgrano,42,22,42,22,42,52,22,37,22,22,42,77
+san luis,departamento Chacabuco,27,42,22,27,42,42,27,42,42,22,42,57
+san luis,departamento Coronel Pringles,22,22,27,22,42,47,22,47,37,27,42,47
+san luis,departamento General Pedernera,22,22,22,22,42,52,22,42,52,22,42,57
+san luis,departamento Gobernador Dupuy,22,22,22,22,42,37,22,27,37,22,42,37
+san luis,departamento Juan Martín de Pueyrredón,27,27,22,22,42,47,22,42,47,22,42,42
+san luis,departamento Junín,42,42,42,22,42,37,22,42,32,22,42,37
+san luis,departamento Libertador General San Martín,22,32,22,22,47,47,32,47,52,22,47,47
+santa cruz,departamento Corpen Aike,32,32,37,32,32,37,32,32,37,22,37,42
+santa cruz,departamento Deseado,32,32,32,22,42,37,32,42,37,22,42,37
+santa cruz,departamento Güer Aike,32,32,32,32,42,67,32,42,67,32,42,67
+santa cruz,departamento Lago Argentino,42,42,42,22,42,37,32,42,42,22,42,57
+santa cruz,departamento Lago Buenos Aires,32,32,32,32,32,57,32,32,57,27,32,42
+santa cruz,departamento Magallanes,32,32,27,27,32,52,27,37,52,27,27,27
+santa cruz,departamento Río Chico,32,32,37,32,32,37,32,32,37,32,37,37
+santa fe,departamento Belgrano,42,42,42,42,42,32,42,42,32,27,42,32
+santa fe,departamento Caseros,42,42,42,42,42,37,42,42,37,37,42,37
+santa fe,departamento Castellanos,32,32,32,32,42,32,32,37,32,32,42,32
+santa fe,departamento Constitución,37,42,37,37,67,27,37,67,42,22,62,27
+santa fe,departamento Garay,27,27,27,27,27,42,27,27,27,22,42,42
+santa fe,departamento General López,32,32,42,27,47,32,32,47,42,27,42,32
+santa fe,departamento General Obligado,27,27,27,27,42,32,27,42,37,22,42,32
+santa fe,departamento Iriondo,42,37,42,42,42,32,37,42,32,42,42,27
+santa fe,departamento La Capital,22,27,22,22,27,32,27,27,27,22,42,32
+santa fe,departamento Las Colonias,22,42,22,22,22,37,42,22,27,22,42,32
+santa fe,departamento 9 de Julio,27,27,22,22,42,32,27,42,32,22,37,32
+santa fe,departamento Rosario,32,32,32,32,57,27,32,57,22,32,57,32
+santa fe,departamento San Cristóbal,27,27,27,27,32,37,27,27,37,27,32,37
+santa fe,departamento San Javier,27,27,27,27,42,42,27,42,27,27,42,57
+santa fe,departamento San Jerónimo,27,42,27,27,47,47,42,47,47,27,42,37
+santa fe,departamento San Justo,27,27,22,27,27,32,27,27,32,22,37,22
+santa fe,departamento San Lorenzo,42,42,42,42,42,37,42,42,37,42,42,37
+santa fe,departamento San Martín,32,42,32,32,42,27,27,42,37,32,42,27
+santa fe,departamento Vera,22,27,22,22,27,27,27,22,72,22,27,57
+santiago del estero,departamento Aguirre,22,22,22,22,22,57,22,22,22,22,22,27
+santiago del estero,departamento Alberdi,22,22,22,22,32,42,22,32,42,22,32,42
+santiago del estero,departamento Atamisqui,22,22,22,22,22,37,22,32,22,22,27,37
+santiago del estero,departamento Avellaneda,22,22,22,22,52,57,22,27,22,22,47,57
+santiago del estero,departamento Banda,22,22,27,22,42,37,22,42,37,22,42,42
+santiago del estero,departamento Belgrano,27,27,27,27,37,57,27,27,22,27,37,52
+santiago del estero,departamento Capital,22,27,22,22,42,32,22,32,32,22,42,52
+santiago del estero,departamento Choya,22,27,22,22,47,27,27,47,42,22,42,27
+santiago del estero,departamento Copo,22,22,22,22,27,27,22,27,32,22,27,27
+santiago del estero,departamento Figueroa,22,22,22,22,22,27,27,22,27,22,37,57
+santiago del estero,departamento General Taboada,22,22,22,22,27,27,22,27,22,22,37,27
+santiago del estero,departamento Guasayán,22,27,22,27,22,32,27,27,32,22,22,67
+santiago del estero,departamento Jiménez,27,27,27,27,27,37,27,27,42,27,22,37
+santiago del estero,departamento Juan Felipe Ibarra,22,22,22,22,27,32,22,27,47,22,42,32
+santiago del estero,departamento Loreto,22,22,22,22,27,42,22,42,52,22,27,22
+santiago del estero,departamento Mitre,27,27,27,27,22,0,27,42,0,57,22,0
+santiago del estero,departamento Moreno,22,22,22,22,27,32,22,27,32,22,37,62
+santiago del estero,departamento Ojo de Agua,22,22,22,22,27,42,22,27,42,22,27,52
+santiago del estero,departamento Pellegrini,22,22,22,22,22,37,22,22,42,22,22,37
+santiago del estero,departamento Quebrachos,27,22,27,27,27,27,22,22,52,27,27,27
+santiago del estero,departamento Río Hondo,22,22,22,22,42,37,22,42,37,22,42,42
+santiago del estero,departamento Rivadavia,27,32,22,27,22,32,27,32,32,37,22,57
+santiago del estero,departamento Robles,22,22,22,22,42,32,22,27,37,22,22,32
+santiago del estero,departamento Salavina,22,22,22,22,27,52,22,27,52,22,27,57
+santiago del estero,departamento San Martín,22,22,22,22,32,32,22,32,32,22,37,57
+santiago del estero,departamento Sarmiento,22,22,22,22,37,37,22,42,37,22,37,22
+santiago del estero,departamento Silípica,22,22,22,22,27,32,22,27,32,22,37,67
+tierra del fuego,departamento Río Grande,32,32,32,32,42,62,32,42,57,32,42,67
+tierra del fuego,departamento Tolhuin,32,32,27,22,32,62,22,32,42,22,42,67
+tierra del fuego,departamento Ushuaia,32,32,32,27,42,57,27,42,57,27,42,32
+tucuman,departamento Burruyacú,22,22,22,22,22,27,22,27,52,22,22,27
+tucuman,departamento Capital,27,27,27,27,27,52,27,27,52,22,32,32
+tucuman,departamento Chicligasta,22,22,22,22,22,52,22,22,57,22,22,52
+tucuman,departamento Cruz Alta,22,22,22,22,42,52,22,42,52,22,42,37
+tucuman,departamento Famaillá,22,22,22,22,27,52,22,27,57,22,27,52
+tucuman,departamento Graneros,22,22,22,22,22,32,22,32,32,22,42,32
+tucuman,departamento Juan Bautista Alberdi,27,27,27,27,27,67,22,27,67,27,27,72
+tucuman,departamento La Cocha,27,27,27,27,22,62,27,22,52,27,22,62
+tucuman,departamento Leales,22,27,22,22,42,27,27,27,27,22,22,22
+tucuman,departamento Lules,22,22,22,22,42,47,22,42,47,22,42,37
+tucuman,departamento Monteros,22,22,27,22,22,32,22,22,37,27,22,32
+tucuman,departamento Río Chico,27,22,27,27,22,27,27,22,22,27,42,27
+tucuman,departamento Simoca,22,22,22,22,22,47,22,22,47,22,22,47
+tucuman,departamento Tafí del Valle,22,22,22,22,32,32,22,32,32,22,22,42
+tucuman,departamento Tafí Viejo,22,22,22,22,47,42,22,47,52,22,47,42
+tucuman,departamento Trancas,22,22,22,22,27,42,22,22,42,22,27,47
+tucuman,departamento Yerba Buena,22,22,22,22,47,52,22,52,52,22,47,42
